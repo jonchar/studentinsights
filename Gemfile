@@ -34,6 +34,8 @@ gem 'selenium-webdriver'
 #gem 'slack-ruby-client'
 #gem 'dotenv'
 #gem 'picky'
+# for file uploads
+gem 'carrierwave'
 
 group :production do
   gem 'rails_12factor'
